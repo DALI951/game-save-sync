@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "usbRoot": "GameSaves",
+  "games": [
+    {
+      "name": "Age of Empires III",
+      "sources": [
+        "%USERPROFILE%\\Documents\\My Games\\Age of Empires 3"
+      ]
+    },
+    {
+      "name": "Banished",
+      "sources": [
+        "%USERPROFILE%\\Documents\\Banished"
+      ]
+    },
+    {
+      "name": "Beltmatic",
+      "sources": [
+        "%APPDATA%\\Beltmatic"
+      ]
+    },
+    {
+      "name": "Elden Ring",
+      "sources": [
+        "%APPDATA%\\EldenRing"
+      ]
+    },
+    {
+      "name": "Foundation",
+      "sources": [
+        "%USERPROFILE%\\Documents\\Polymorph Games\\Foundation"
+      ]
+    },
+    {
+      "name": "Geometry Dash",
+      "sources": [
+        "%LOCALAPPDATA%\\GeometryDash"
+      ]
+    },
+    {
+      "name": "GTA V Enhanced",
+      "sources": [
+        "%USERPROFILE%\\Documents\\Rockstar Games\\GTA V",
+        "%APPDATA%\\Social Club\\GTA V"
+      ]
+    },
+    {
+      "name": "Hollow Knight",
+      "sources": [
+        "%USERPROFILE%\\AppData\\LocalLow\\Team Cherry\\Hollow Knight"
+      ]
+    },
+    {
+      "name": "Hollow Knight Silksong",
+      "sources": [
+        "%USERPROFILE%\\AppData\\LocalLow\\Team Cherry\\Hollow Knight Silksong"
+      ]
+    },
+    {
+      "name": "Nine Sols",
+      "sources": [
+        "%USERPROFILE%\\AppData\\LocalLow\\RedCandleGames\\NineSols"
+      ]
+    },
+    {
+      "name": "Planetbase",
+      "sources": [
+        "%USERPROFILE%\\Documents\\Planetbase",
+        "%USERPROFILE%\\AppData\\LocalLow\\Madruga Works\\Planetbase",
+        "%USERPROFILE%\\Documents\\Madruga Works\\Planetbase"
+      ]
+    },
+    {
+      "name": "Satisfactory",
+      "sources": [
+        "%LOCALAPPDATA%\\FactoryGame\\Saved"
+      ]
+    },
+    {
+      "name": "StarCraft II",
+      "sources": [
+        "%USERPROFILE%\\Documents\\StarCraft II"
+      ]
+    },
+    {
+      "name": "Supermarket Simulator",
+      "sources": [
+        "%APPDATA%\\OnlineFix\\2624860",
+        "%APPDATA%\\OnlineFix",
+        "%APPDATA%\\Goldberg SteamEmu Saves"
+      ]
+    },
+    {
+      "name": "The Planet Crafter",
+      "sources": [
+        "%USERPROFILE%\\AppData\\LocalLow\\MijuGames\\Planet Crafter"
+      ]
+    }
+  ],
+  "exclude": [
+    "*.log",
+    "*.tmp",
+    "Thumbs.db",
+    "desktop.ini"
+  ]
+}
